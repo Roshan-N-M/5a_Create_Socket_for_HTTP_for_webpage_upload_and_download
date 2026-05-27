@@ -70,11 +70,11 @@ while True:
 ## OUTPUT
 CLIENT:
 
-<img width="878" height="187" alt="image" src="https://github.com/user-attachments/assets/8c7d098a-b64f-47a0-a8da-a16f73691345" />
+<img width="1002" height="353" alt="image" src="https://github.com/user-attachments/assets/4db103c3-4b50-46e8-a005-16f3030ec41c" />
 
 SERVER:
 
-<img width="883" height="90" alt="image" src="https://github.com/user-attachments/assets/369bb55e-e9e3-4d32-983d-0b8c38e28e4c" />
+<img width="939" height="101" alt="image" src="https://github.com/user-attachments/assets/44e05b42-61af-414c-9b67-22e21f5d99aa" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
